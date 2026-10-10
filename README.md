@@ -1,2 +1,3 @@
 # LLM-and-societal-consequences-of-AI
 this is a github repo for the LLM course at Uppsala university, sem 3
+This is assignment 2 done by simran khan :)
